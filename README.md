@@ -1,6 +1,6 @@
 # HeadsUp-Notification
  android 5.0 lollipop  HeadsUp Notification with Eclipse edition from https://github.com/zzz40500/HeadsUp
- #2.0 使用库实现类似的方法(向下兼容2.3)#
+#2.0 使用库实现类似的方法(向下兼容2.3)#
 下面介绍一个自己写的,类似 Heads-up 组件的库.
 [github 源码地址](https://github.com/zzz40500/HeadsUp)
 simple heads-up (no expand)
